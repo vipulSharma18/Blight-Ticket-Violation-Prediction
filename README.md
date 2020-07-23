@@ -1,4 +1,4 @@
-# Blight-Ticket-Violation-Prediction
+# Blight Ticket Violation Prediction
 ## Summary: 
 A Random Forrest Classifier to predict whether a person will pay the blight ticket violation fine. I maximized the AUC score reaching a score of more than 87%.
 
